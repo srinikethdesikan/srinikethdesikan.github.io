@@ -1,0 +1,11 @@
+title: Srini
+description: A small human in a big world.
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
